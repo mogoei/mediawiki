@@ -1,5 +1,5 @@
 <?php
-/** Luri (لوری)
+/** Luri (لۊری مینجایی)
  *
  * To improve a translation please visit https://translatewiki.net
  *
@@ -15,8 +15,8 @@ $fallback = 'fa';
 $rtl = true;
 
 $namespaceNames = array(
-	NS_MEDIA            => 'رسانه',
-	NS_SPECIAL          => 'ویجه',
+	NS_MEDIA            => 'ڤارئسگأر',
+	NS_SPECIAL          => 'ڤیجه',
 	NS_TALK             => 'چک_چنه',
 	NS_USER             => 'کارور',
 	NS_USER_TALK        => 'چک_چنه_کارور',
