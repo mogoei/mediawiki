@@ -15,32 +15,32 @@ $fallback = 'fa';
 $rtl = true;
 
 $namespaceNames = array(
-	NS_MEDIA            => 'رسانه',
-	NS_SPECIAL          => 'ویجه',
-	NS_TALK             => 'چک_چنه',
-	NS_USER             => 'کارور',
-	NS_USER_TALK        => 'چک_چنه_کارور',
-	NS_PROJECT_TALK     => 'چک_چنه_$1',
+	NS_MEDIA            => 'ڤارئسگأر',
+	NS_SPECIAL          => 'ڤیجه',
+	NS_TALK             => 'چأک چئنه',
+	NS_USER             => 'کاریار',
+	NS_USER_TALK        => 'چأک چئنه کاریار',
+	NS_PROJECT_TALK     => 'چأک چئنه $1',
 	NS_FILE             => 'جانیا',
-	NS_FILE_TALK        => 'چک_چنه_جانیا',
-	NS_MEDIAWIKI        => 'مدیاویکی',
-	NS_MEDIAWIKI_TALK   => 'چک_چنه_مدیاویکی',
-	NS_TEMPLATE         => 'چوئه',
-	NS_TEMPLATE_TALK    => 'چک_چنه_چوئه',
+	NS_FILE_TALK        => 'چأک چئنه جانیا',
+	NS_MEDIAWIKI        => 'مدیا ڤیکی',
+	NS_MEDIAWIKI_TALK   => 'چأک چئنه مدیا ڤیکی',
+	NS_TEMPLATE         => 'چوٙأ',
+	NS_TEMPLATE_TALK    => 'چأک چئنه چوٙأ',
 	NS_HELP             => 'هومیاری',
-	NS_HELP_TALK        => 'چک_چنه_هومیاری',
-	NS_CATEGORY         => 'دسه',
-	NS_CATEGORY_TALK    => 'چک_چنه_دسه',
+	NS_HELP_TALK        => 'چأک چئنه هومیاری',
+	NS_CATEGORY         => 'دأسه',
+	NS_CATEGORY_TALK    => 'چأک چئنه دأسه',
 );
 
 $namespaceAliases = array(
-	'عسگ' => NS_FILE,
-	'چک_چنه_عسگ' => NS_FILE_TALK,
+	'أسگ' => NS_FILE,
+	'چأک چئنه أسگ' => NS_FILE_TALK,
 );
 
 $specialPageAliases = array(
-	'Activeusers'               => array( 'کاریاریا_کنشتکار' ),
-	'Allmessages'               => array( 'همه_پیغومیا' ),
+	'Activeusers'               => array( 'کاریاریا کونئشتکار' ),
+	'Allmessages'               => array( 'هأمه پئیغومیا' ),
 	'AllMyUploads'              => array( 'همه_سوارکردیا_مه', 'همه_جانیایا_مه' ),
 	'Allpages'                  => array( 'همه_بلگه_یا' ),
 	'ApiHelp'                   => array( 'هومیاری_آ_پی_آی' ),
